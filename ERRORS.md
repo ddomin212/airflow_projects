@@ -1,0 +1,1 @@
+- There seems to be an error with the requests library, therefore it sometimes fetches the transcripts for podcasts and sometimes it does not, not sure how to ix.
